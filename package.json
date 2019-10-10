@@ -37,5 +37,6 @@
   "devDependencies": {
     "cz-conventional-changelog": "^3.0.2",
     "git-cz": "^3.2.1"
-  }
+  },
+  "homepage": "https://www.spollock.ca/react-tic-tac-toe"
 }
